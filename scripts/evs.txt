@@ -1,0 +1,38 @@
+en W en C
+Laplacian: 22.652637636259023
+es W es C
+Laplacian: 13.655552183715267
+de W de C
+Laplacian: 18.555504102012538
+ja W ja C
+Laplacian: 12.72208770110693
+zh W zh C
+Laplacian: 29.160286358730666
+vi W vi C
+Laplacian: 50.56626728857034
+th W th C
+Laplacian: 32.77072050491687
+en W es W
+Laplacian: 42.43771070034443
+en W de W
+Laplacian: 14.394075272076645
+en W ja W
+Laplacian: 319.8962286454509
+en W zh W
+Laplacian: 180.9543294102553
+en W vi W
+Laplacian: 325.2021998098725
+en W th W
+Laplacian: 463.19711234948835
+en W es C
+Laplacian: 20.351634936983167
+en W de C
+Laplacian: 4.428593209539585
+en W ja C
+Laplacian: 375.5753359558947
+en W zh C
+Laplacian: 287.6072887339754
+en W vi C
+Laplacian: 496.42510123926314
+en W th C
+Laplacian: 446.8150475484919
